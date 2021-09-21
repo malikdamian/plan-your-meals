@@ -1,4 +1,4 @@
-#Plan your meals
+## Plan your meals
 
 An app for creating recipes and eating plans.
 
