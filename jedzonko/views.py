@@ -11,7 +11,7 @@ from jedzonko import utils
 
 def index_view(request):
     ctx = {"actual_date": datetime.now()}
-    return render(request, "test.html", ctx)
+    return render(request, "index.html", ctx)
 
 
 def start_view(request):
